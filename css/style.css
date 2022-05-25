@@ -1,0 +1,20 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+.container {
+    width: 60%;
+    margin: 150px auto 50px;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    border-bottom: 1px solid grey;
+    height: 100px;
+    background-color: white;
+}
